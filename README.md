@@ -37,3 +37,7 @@ The published editor starts with an empty photo placeholder and contains no embe
 - Remove the photo to export an empty template.
 
 Add a title or text layer with **添加标题** or **添加文字**. Select a layer on the canvas and drag it to place it; double-click to edit its content. Text wraps to the chosen width and is included in the exported PNG. Direction keys nudge the selected text; Delete removes it when the canvas has focus. Text layers are shared across the four shape templates, while photo crops are stored separately for each shape.
+
+## Fixed podcast typography
+
+Chinese titles and podcast branding use **Alimama FangYuanTi VF** at its rounded end (BEVL 100). Latin text uses **Quicksand**. New titles default to weight 500 and supporting text to 400. Original WOFF2 font files and license notices are embedded in the standalone HTML, so the same fonts work offline. PNG export stays disabled until the fonts are loaded. See [FONT-LICENSES.md](FONT-LICENSES.md) for the original terms and credits.
