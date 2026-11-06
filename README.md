@@ -2,6 +2,8 @@
 
 A standalone podcast cover editor with a cool, grainy retro-futurist visual style. The interface is in Chinese.
 
+[Open the live editor](https://mengxuebi-mush.github.io/podcast-cover-studio-site/)
+
 ## Open the editor
 
 Download or clone this repository and open `index.html` in a modern browser. No installation, build step, server, or external dependencies are required.
